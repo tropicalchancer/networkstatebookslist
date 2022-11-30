@@ -23,7 +23,7 @@ List of books referenced or linked to in Balaji Srinivasan's The Network State b
 - [Wall Street and the Bolshevik Revolution: The Remarkable True Story of the American Capitalists Who Financed the Russian Communists](https://www.amazon.com/Wall-Street-Bolshevik-Revolution-Capitalists/dp/190557035X), Antony C. Sutton
 
 *God, State, Network*
-- (Are You There God? It's Me, Margaret)[https://www.amazon.com/Are-You-There-God-Margaret/dp/148140993X], Judy Blume & Debbie Ridpath Ohi 
+- (Are You There God? It's Me, Margaret](https://www.amazon.com/Are-You-There-God-Margaret/dp/148140993X], Judy Blume & Debbie Ridpath Ohi 
 
 *People of God, People of the State, People of the Network*
 - [Roots to Power: A Manual for Grassroots Organizing](https://www.amazon.com/Roots-Power-Manual-Grassroots-Organizing/dp/1440833710), Lee Staples
