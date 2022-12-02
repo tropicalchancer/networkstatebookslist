@@ -1,5 +1,5 @@
 # The Network State book list
-Below is a list of books referenced or linked to in [Balaji Srinivasan's](https://twitter.com/balajis) [The Network State book](https://thenetworkstate.com/). 
+Below is a list of books referenced in [Balaji Srinivasan's](https://twitter.com/balajis) [The Network State book](https://thenetworkstate.com/). 
 
 I've added all books referenced in the main text. I still need to go through the Appendix. Eventually, I might add different media types (youtube videos, tweets, etc) to this list.
 
