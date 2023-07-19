@@ -3,7 +3,7 @@ Below is a list of books referenced in [Balaji Srinivasan's](https://twitter.com
 
 I've added all books referenced in the main text. I still need to go through the Appendix. Eventually, I might add different media types (youtube videos, tweets, etc) to this list.
 
-Sidenote: if you're interested in this topic, check out the free Plumia [cohort on Internet Countries](https://plumia.org/internet-country-cohort/). 
+Sidenote: if you're interested in this topic, check out the free Plumia [cohort on Internet Countries](https://plumia.org/cohorts/). 
 
 ### CHAPTER 2: History as Trajectory
 *Prologue*
